@@ -1,4 +1,10 @@
-JS selector specificity.
+CSS selector specificity.
+
+```
+$.specificity('#this .is-a .css-selector')
+
+=> 1200
+```
 
 ### Contents
 
