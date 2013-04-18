@@ -1,9 +1,7 @@
 CSS selector specificity.
 
 ```
-$.specificity('#this .is-a .css-selector')
-
-=> 1200
+$.specificity('#this .is-a .css-selector'); // => 1200
 ```
 
 ### Contents
