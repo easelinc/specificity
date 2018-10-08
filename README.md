@@ -27,7 +27,7 @@ $.specificity('#this .is-a .css-selector'); // => 1200
 
 MIT License
 
-[jasmine]: http://pivotal.github.com/jasmine/
+[jasmine]: https://jasmine.github.io/
 [install]: http://jashkenas.github.com/coffee-script/#installation
 [skeleton]: http://buttersafe.com/2008/03/13/romance-on-the-floating-island/
 [styleguide]: https://github.com/easelinc/coffeescript-style-guide
